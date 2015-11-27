@@ -9,12 +9,17 @@ Witbox 2 is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Please read the LICENSE file for more details.
 
+#Firmware
+Firmware: [https://github.com/bq/Marlin](https://github.com/bq/Marlin)
+
 Directory structure
 ===================
+ 
+ * `Accessories & Samples`: Witbox 2 printable accessories and samples.
+ 
+ * `Electronic Design`: Witbox 2 Electronics BOM, Schematics and PCB files.
 
  * `Mechanical Design`: Witbox 2 exported step file.
-
- * `Electronic Design`: Witbox 2 Electronics BOM, Schematics and PCB files.
 
  * `Witbox2-BOM.ods`: Witbox 2 Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
 
