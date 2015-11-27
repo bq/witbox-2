@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\00_HW_Projects\zz - Open Source\Faja_Hub\PCB\Faja_Hub.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_KO|Scope=Board|Minimum=19.69

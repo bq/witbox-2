@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:43:03 On 13/11/2015
+
+Output: BOM_Complete
+Type  : BOM
+From  : Project [Faja_X.PrjPcb]
+   Generated File[BOM_Complete-Faja_X.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:43:07 On 13/11/2015

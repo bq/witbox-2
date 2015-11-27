@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Faja_Hub.PcbDoc   13/11/2015  13:37:34
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Faja_Hub.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          79               691.65 mm (27.23 Inch)
+T2        1.1mm (43.307mil)        Round          24               73.66 mm (2.90 Inch)
+T3        6.35mm (250mil)          Round          4                79.00 mm (3.11 Inch)
+---------------------------------------------------------------------------
+Totals                                            107              844.31 mm (33.24 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Faja_X.PcbDoc   13/11/2015  13:42:22
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Faja_X.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          53               332.46 mm (13.09 Inch)
+T2        0.9mm (35.433mil)        Round          2                2.54 mm (0.10 Inch)
+T3        4.2mm (165.354mil)       Round          2                30.00 mm (1.18 Inch)
+---------------------------------------------------------------------------
+Totals                                            57               365.00 mm (14.37 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

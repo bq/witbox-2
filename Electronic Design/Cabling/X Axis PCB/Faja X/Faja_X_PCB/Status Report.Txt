@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Faja_X.PcbDoc]
+   Generated File[Faja_X.TXT]
+   Generated File[Faja_X.LDP]
+   Generated File[Faja_X.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:42:22 On 13/11/2015

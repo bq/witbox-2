@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:43:15 On 13/11/2015
+
+Output: STEP_Endstop
+Type  : ExportSTEP
+From  : PCB Document [Faja_X.PcbDoc]
+   Generated File[Faja_X.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:43:22 On 13/11/2015
