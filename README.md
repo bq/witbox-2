@@ -21,7 +21,7 @@ Directory structure
 
  * `Mechanical Design`: Witbox 2 exported step file.
 
- * `Witbox2-BOM.ods`: Witbox 2 Bill of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
+ * `Witbox2-LOM.ods`: Witbox 2 List of Materials. Document for [LibreOffice](https://www.libreoffice.org/).
 
 **Please note**: The original Witbox 2 design was made in Autodesk Inventor(tm) which is proprietary software. Since we love open formats we are migrating the Witbox 2 parts to [FreeCAD](http://www.freecadweb.org/), which is a multiplatform open source CAD software. We invite people from the community to join us and help us to complete the task.
 
