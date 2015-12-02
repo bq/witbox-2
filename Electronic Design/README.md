@@ -1,6 +1,6 @@
 # Witbox 2 electronics
 
-* **bqCNC** - Controller board for Witbox 2 printer.
+* **bqCNC** - Controller board for Witbox 2 printer. [Link](https://github.com/bq/zum/tree/master/zum-CNC).
 * **ZUM LCD Smart Controller** - LCD and SD card reader for Open Source 3D printers - [Link](https://github.com/bq/zum/tree/master/zum-LCDSmartController).
 * **ZUM Inductive Sensor** - Inductive sensor for 3D autoleveling - [Link](https://github.com/bq/zum/tree/master/zum-inductivesensor).
 * **Cabling** - Witbox 2 PCB boards.
