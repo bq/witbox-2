@@ -1,11 +1,11 @@
 Witbox 2
 ======
-<img src="./doc/images/W2.jpg" width="200" align = "center">
+<img src="./doc/images/W2.jpg" width="400" align = "center">
 In this repository you will find the source files for the [bq Witbox 2 3D printer](http://www.bq.com/es/productos/witbox-2.html). If you are missing something, please do not hesitate to [file an issue on github](https://github.com/bq/witbox-2/issues).
 
 # License 
 
-<img src="./doc/LICENSE/by-sa.png" width="400" align = "center">
+<img src="./doc/LICENSE/by-sa.png" width="200" align = "center">
 
 Witbox 2 is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
