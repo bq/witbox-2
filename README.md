@@ -5,7 +5,7 @@ In this repository you will find the source files for the [bq Witbox 2 3D printe
 
 # License 
 
-<img src="./doc/LICENSE/by-sa.png" width="200" align = "center">
+<img src="./doc/LICENSE/by-sa.png" width="400" align = "center">
 
 Witbox 2 is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
