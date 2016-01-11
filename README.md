@@ -27,3 +27,9 @@ Directory structure
 
 **Please note**: The original Witbox 2 design was made in Autodesk Inventor(tm) which is proprietary software. Since we love open formats we are migrating the Witbox 2 parts to [FreeCAD](http://www.freecadweb.org/), which is a multiplatform open source CAD software. We invite people from the community to join us and help us to complete the task.
 
+Contact
+===================
+
+__Community forum:__  [Mibqyyo](http://www.mibqyyo.com/comunidad/?lang=en)
+
+__Email support:__ support3d@bq.com
